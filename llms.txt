@@ -1,0 +1,16 @@
+# ScriptSnap
+
+> ScriptSnap is a free Chrome extension that copies and downloads the transcript of any YouTube video in one click. It exports TXT, SRT, VTT, Markdown, CSV and JSON, and adds search, a synced transcript panel, starred lines, video insights and AI prompts for ChatGPT, Claude or Gemini. It runs entirely in the browser, needs no account and uses only the storage permission.
+
+Key facts:
+- Price: free, no limits, no ads
+- Works on: YouTube videos that have captions, including auto-generated captions
+- Browsers: Chrome and Chromium-based browsers (Edge, Brave)
+- Privacy: no servers, no analytics, no data collection
+- Install: https://chromewebstore.google.com/detail/scriptsnap/YOUR-EXTENSION-ID
+
+## Pages
+- [Home](https://YOUR-GITHUB-USERNAME.github.io/scriptsnap/): features, export formats, FAQ
+- [How to download a YouTube transcript](https://YOUR-GITHUB-USERNAME.github.io/scriptsnap/how-to-download-youtube-transcript.html): step-by-step guide with three methods and a format chooser
+- [Support](https://YOUR-GITHUB-USERNAME.github.io/scriptsnap/support.html): troubleshooting, shortcuts, settings, contact (saqibsohaib48@gmail.com)
+- [Privacy policy](https://YOUR-GITHUB-USERNAME.github.io/scriptsnap/privacy.html)
