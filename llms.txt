@@ -7,7 +7,7 @@ Key facts:
 - Works on: YouTube videos that have captions, including auto-generated captions
 - Browsers: Chrome and Chromium-based browsers (Edge, Brave)
 - Privacy: no servers, no analytics, no data collection
-- Install: https://chromewebstore.google.com/detail/scriptsnap/YOUR-EXTENSION-ID
+- Install: https://chromewebstore.google.com/detail/mjjkbjnjdjmmghgbkifdgdhofoaohblj
 
 ## Pages
 - [Home](https://YOUR-GITHUB-USERNAME.github.io/scriptsnap/): features, export formats, FAQ
